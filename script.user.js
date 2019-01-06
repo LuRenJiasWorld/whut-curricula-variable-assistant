@@ -7,8 +7,9 @@
 // @include     http://202.114.90.184/Course/*
 // @include     http://59.69.102.13/Course/*
 // @include     http://202.114.50.131/Course/*
+// @include     http://202.114.50.130/Course/*
 // @run-at      document-end
-// @version     0.12
+// @version     0.13
 // @grant       unsafeWindow
 // @grant       GM_addStyle
 // @grant       GM_getValue
@@ -50,7 +51,7 @@
 
         // 提示用户
         toastr.success("插件初始化完成");
-        toastr.success("欢迎使用武汉理工大学自助抢课系统", "版本号 v0.12");
+        toastr.success("欢迎使用武汉理工大学自助抢课系统", "版本号 v0.13");
     }
 
     /*
