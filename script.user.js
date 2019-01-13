@@ -8,6 +8,7 @@
 // @include     http://59.69.102.13/Course/*
 // @include     http://202.114.50.131/Course/*
 // @include     http://202.114.50.130/Course/*
+// @include     http://218.197.102.183/Course/*
 // @run-at      document-end
 // @version     0.13
 // @grant       unsafeWindow
